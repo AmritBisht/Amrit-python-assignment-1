@@ -1,4 +1,10 @@
-## Assignment Part-1
+                                                     
+                                                     please view it as raw
+
+
+
+
+## Assignment Part-1   
 
 Q1. Why do we call Python as a general purpose and high-level programming language?
 
